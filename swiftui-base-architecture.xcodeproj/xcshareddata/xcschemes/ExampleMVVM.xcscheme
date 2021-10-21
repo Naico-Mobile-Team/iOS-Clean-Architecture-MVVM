@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1FA53388201E1FDE00747E55"
-               BuildableName = "ExampleMVVM.app"
-               BlueprintName = "ExampleMVVM"
-               ReferencedContainer = "container:ExampleMVVM.xcodeproj">
+               BuildableName = "swiftui-base-architecture.app"
+               BlueprintName = "swiftui-base-architecture"
+               ReferencedContainer = "container:swiftui-base-architecture.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -27,15 +27,24 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1FA53388201E1FDE00747E55"
+            BuildableName = "swiftui-base-architecture.app"
+            BlueprintName = "swiftui-base-architecture"
+            ReferencedContainer = "container:swiftui-base-architecture.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1FA5339C201E1FDE00747E55"
-               BuildableName = "ExampleMVVMTests.xctest"
-               BlueprintName = "ExampleMVVMTests"
-               ReferencedContainer = "container:ExampleMVVM.xcodeproj">
+               BuildableName = "swiftui-base-architectureTests.xctest"
+               BlueprintName = "swiftui-base-architectureTests"
+               ReferencedContainer = "container:swiftui-base-architecture.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,23 +52,12 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1F02DE3122F8507500E40C3A"
-               BuildableName = "ExampleMVVMUITests.xctest"
-               BlueprintName = "ExampleMVVMUITests"
-               ReferencedContainer = "container:ExampleMVVM.xcodeproj">
+               BuildableName = "swiftui-base-architectureUITests.xctest"
+               BlueprintName = "swiftui-base-architectureUITests"
+               ReferencedContainer = "container:swiftui-base-architecture.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1FA53388201E1FDE00747E55"
-            BuildableName = "ExampleMVVM.app"
-            BlueprintName = "ExampleMVVM"
-            ReferencedContainer = "container:ExampleMVVM.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -76,13 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1FA53388201E1FDE00747E55"
-            BuildableName = "ExampleMVVM.app"
-            BlueprintName = "ExampleMVVM"
-            ReferencedContainer = "container:ExampleMVVM.xcodeproj">
+            BuildableName = "swiftui-base-architecture.app"
+            BlueprintName = "swiftui-base-architecture"
+            ReferencedContainer = "container:swiftui-base-architecture.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -95,9 +91,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1FA53388201E1FDE00747E55"
-            BuildableName = "ExampleMVVM.app"
-            BlueprintName = "ExampleMVVM"
-            ReferencedContainer = "container:ExampleMVVM.xcodeproj">
+            BuildableName = "swiftui-base-architecture.app"
+            BlueprintName = "swiftui-base-architecture"
+            ReferencedContainer = "container:swiftui-base-architecture.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
